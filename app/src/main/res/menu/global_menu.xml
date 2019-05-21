@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/ic_main_cart"
+        android:icon="@drawable/ic_icon_food_card"
+        android:orderInCategory="100"
+        android:title="Cart"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/ic_main_trip"
+        android:icon="@drawable/ic_main_toolbar_icon_view_3"
+        android:orderInCategory="100"
+        android:title="Trip"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/ic_main_urban"
+        android:icon="@drawable/ic_main_toolbar_icon_view_3"
+        android:orderInCategory="100"
+        android:title="Urban"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/ic_main_hotel"
+        android:icon="@drawable/ic_navigation_language"
+        android:orderInCategory="100"
+        android:title="Hotel"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/ic_main_restro"
+        android:icon="@drawable/ic_navigation_language"
+        android:orderInCategory="100"
+        android:title="Restro"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/ic_main_rent"
+        android:icon="@drawable/ic_navigation_language"
+        android:orderInCategory="100"
+        android:title="Rent"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/ic_main_repair"
+        android:icon="@drawable/ic_navigation_language"
+        android:orderInCategory="100"
+        android:title="Repair"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/ic_main_manpower"
+        android:icon="@drawable/ic_navigation_language"
+        android:orderInCategory="100"
+        android:title="ManPower"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/ic_main_doctor"
+        android:icon="@drawable/ic_navigation_language"
+        android:orderInCategory="100"
+        android:title="Doctor"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/ic_main_transport"
+        android:icon="@drawable/ic_navigation_language"
+        android:orderInCategory="100"
+        android:title="Transport"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/ic_main_car_sales"
+        android:icon="@drawable/ic_navigation_language"
+        android:orderInCategory="100"
+        android:title="Car Sales"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/ic_main_taxi_city"
+        android:icon="@drawable/ic_navigation_language"
+        android:orderInCategory="100"
+        android:title="Taxi City"
+        app:showAsAction="never" />
+
+</menu>
