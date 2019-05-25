@@ -96,7 +96,7 @@ public class IntroSliderActivity extends AppCompatActivity {
 
         @Override
         public void onPageScrollStateChanged(int arg0) {
-
+//https://github.com/mohamedkhaledalizayed/KhadametDZ.git
         }
     };
 
